@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SourceFileCollection xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Profile>Reach</Profile>
+  <Platform>Windows</Platform>
+  <Config />
+  <SourceFiles>
+    <File>C:/Users/Matty/Documents/Games Computing/Resits/GamesProgramming_V2/GamesProgramming_V1/Content/Background.jpg</File>
+    <File>C:/Users/Matty/Documents/Games Computing/Resits/GamesProgramming_V2/GamesProgramming_V1/Content/platform.png</File>
+    <File>C:/Users/Matty/Documents/Games Computing/Resits/GamesProgramming_V2/GamesProgramming_V1/Content/Bike1.png</File>
+  </SourceFiles>
+</SourceFileCollection>
